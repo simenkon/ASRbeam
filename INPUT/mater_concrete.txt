@@ -1,0 +1,2 @@
+#material flag, number of material properties, number of of stateVars, material properties, initial values StateVars
+0 19 14 37300 2.2 0.    28.    0.002  0.0025   -10. -0.2 0.0033 88541.3 122598.4 43404.7 30624.9 102847.2 1. 10.  100. 1000. 10000. 0 0 0 0 0 0 0 0 0 0 0 0 0 0

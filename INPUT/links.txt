@@ -1,0 +1,2 @@
+#Link number, link eccentricity in negative z direction, link stiffness in x, link stiffness in z, node connectivity
+#0	715	194251.8  2559.49	0	63

@@ -1,0 +1,6 @@
+#cross section flag, type (1:rectangle), number of concrete section layers, number of steel layers, geometry (h and b if type=1), reinforcement list: As, zs
+#cross section flag, type (2:T), number of concrete section layers, number of steel layers, geometry (hw,hf,bw,bf if type=2), reinforcement list: As, zs
+#Midtfelt
+0 1 6  2 500.  250.   0.    0.      157.    402.  -205  200 	
+1 2 12 2 1430. 310. 800. 3500.     4021.2 12063.7 -811  811 
+
