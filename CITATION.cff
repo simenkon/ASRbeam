@@ -1,7 +1,7 @@
 cff-version: 0.0.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: S. Kongshaug
+  - family-names: Sørgaard Kongshaug
     given-names: Simen 
 title: "ASRbeam"
 version: 0.0.0
