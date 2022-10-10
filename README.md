@@ -1,6 +1,6 @@
 # ASRbeam
 ## Introduction
-This is a 2D non-linear finite element software for reinforced concrete (RC) beams. Material non-linearity is included,
+*ASRbeam* is a 2D non-linear finite element software for reinforced concrete (RC) beams. Material non-linearity is included,
 but not geometric non-linearity. The purpose of the software is to calculate load effects due
 to ASR in statically indeterminate RC beams/frames.
 
